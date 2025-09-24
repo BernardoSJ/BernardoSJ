@@ -25,7 +25,7 @@ My goal is to become a leader in automation testing by building robust, efficien
 ## 🌐 Currently Working On
 
 - Mentoring QA professionals to adopt **Appvance** as their main automation platform  
-- Learning more about **GitHub Actions** and improving CI/CD workflows  
+- Learning more about **Cypress** and **Playwright** 
 - Sharpening my skills in **Java** and **Python** using **Selenium**
 
 ---
@@ -69,7 +69,7 @@ Mi meta es convertirme en un referente en pruebas de automatización mediante la
 ## 🌐 Actualmente Trabajando En
 
 - Brindar mentoría para que otros QA Engineer adopten **Appvance** como su herramienta principal de automatización  
-- Profundizando mis conocimientos en **GitHub Actions** y flujos CI/CD  
+- Profundizando mis conocimientos en **Cypress** y **Playwright** 
 - Mejorar mis habilidades en **Java** y **Python** con **Selenium**
 
 ---
