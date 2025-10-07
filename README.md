@@ -9,7 +9,7 @@ My goal is to become a leader in automation testing by building robust, efficien
 ## 🧪 Skills & Technologies
 
 ### 🖥️ Testing Tools:
-- Appvance, Postman, Selenium
+- Appvance, Postman, Selenium, Cypress, Playwright
 
 ### 🧰 Development & Automation:
 - Git, GitHub Actions, CI/CD
@@ -53,7 +53,7 @@ Mi meta es convertirme en un referente en pruebas de automatización mediante la
 ## 🧪 Habilidades y Tecnologías
 
 ### 🖥️ Herramientas de Testing:
-- Appvance, Postman, Selenium
+- Appvance, Postman, Selenium, Cypress, Playwright
 
 ### 🧰 Desarrollo y Automatización:
 - Git, GitHub Actions, CI/CD
